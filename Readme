@@ -1,0 +1,14 @@
+git init
+
+git config --global user.name “any user name”
+
+
+git config --global user.email <email id>
+
+
+git remote add origin <address>
+
+
+https://github.com/lujayninfoways-2019/test
+
+git remote -v
