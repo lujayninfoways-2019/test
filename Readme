@@ -8,6 +8,7 @@ git config --global user.email <email id>
 
 git remote add origin <address>
 
+git checkout -b <branch name>
 
 https://github.com/lujayninfoways-2019/test
 
